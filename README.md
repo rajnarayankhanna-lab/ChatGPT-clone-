@@ -14,7 +14,7 @@ A simple ChatGPT-inspired web project built using HTML, CSS, and JavaScript.
 
 🛠️ Technologies Used
 
-- HTML5
+- ![HTML5](https://www.vecteezy.com/png/12697299-stylized-3d-html-logo-design)
 - CSS3
 - JavaScript
 
