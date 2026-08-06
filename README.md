@@ -30,6 +30,15 @@ https://spck.io/labs/nXHNWcdR6
 
 This project was built by me as a learning project. I also used ChatGPT for guidance, explanations, debugging, and improving parts of the code while developing it.
 
+ChatGPT-clone/
+├── .gitignore
+├── IMG_20260806_174021.jpg
+├── LICENSE
+├── README.md
+├── index.html
+└── script.js
+
+
 👨‍💻 Author
 
 Created by Kartik Kushwaha.
