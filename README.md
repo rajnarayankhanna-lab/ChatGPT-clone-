@@ -20,9 +20,7 @@ A simple ChatGPT-inspired web project built using HTML, CSS, and JavaScript.
 
 📷 Screenshot
 
-
-![ChatGPT clone](IMG_20260806_174021)
-
+![ChatGPT clone](IMG_20260806_174021.jpg)
 
 🚀 Live Demo
 
