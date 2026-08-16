@@ -14,9 +14,10 @@ A simple ChatGPT-inspired web project built using HTML, CSS, and JavaScript.
 
 🛠️ Technologies Used
 
--[HTML]<img src="https://static.vecteezy.com/system/resources/previews/012/697/299/non_2x/stylized-3d-html-logo-design-free-png.png" width="80">
-- CSS3
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 📷 Screenshot
 
